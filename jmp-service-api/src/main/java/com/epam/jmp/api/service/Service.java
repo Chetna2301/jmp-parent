@@ -1,8 +1,8 @@
-package com.epam.api.service;
+package com.epam.jmp.api.service;
 
-import com.epam.dto.dto.BankCard;
-import com.epam.dto.dto.Subscription;
-import com.epam.dto.dto.User;
+import com.epam.dto.BankCard;
+import com.epam.dto.Subscription;
+import com.epam.dto.User;
 
 import java.time.Duration;
 import java.time.LocalDate;

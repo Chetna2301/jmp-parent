@@ -1,3 +1,3 @@
 module jmp.dto {
-    exports com.epam.dto.dto;
+    exports com.epam.dto;
 }

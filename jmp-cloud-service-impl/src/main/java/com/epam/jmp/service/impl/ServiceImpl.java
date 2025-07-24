@@ -1,10 +1,10 @@
-package com.epam.service.impl;
+package com.epam.jmp.service.impl;
 
-import com.epam.dto.dto.BankCard;
-import com.epam.dto.dto.Subscription;
-import com.epam.dto.dto.User;
-import com.epam.service.exceptions.SubscriptionNotFoundException;
-import com.epam.api.service.Service;
+import com.epam.dto.BankCard;
+import com.epam.dto.Subscription;
+import com.epam.dto.User;
+import com.epam.jmp.service.exceptions.SubscriptionNotFoundException;
+import com.epam.jmp.api.service.Service;
 
 import java.time.LocalDate;
 import java.time.Period;

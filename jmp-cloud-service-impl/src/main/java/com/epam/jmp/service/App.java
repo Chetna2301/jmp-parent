@@ -1,4 +1,4 @@
-package com.epam.api;
+package com.epam.jmp.service;
 
 /**
  * Hello world!

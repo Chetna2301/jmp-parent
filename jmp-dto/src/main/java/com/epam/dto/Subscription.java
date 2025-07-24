@@ -1,4 +1,4 @@
-package com.epam.dto.dto;
+package com.epam.dto;
 
 import java.time.LocalDate;
 import java.util.Objects;

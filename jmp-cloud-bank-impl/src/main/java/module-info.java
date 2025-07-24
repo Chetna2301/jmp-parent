@@ -2,5 +2,5 @@ module jmp.cloud.bank.impl {
     requires transitive jmp.bank.api;
     requires jmp.dto;
 
-    exports com.epam.bank.impl;
+    exports com.epam.jmp.jmp.impl;
 }

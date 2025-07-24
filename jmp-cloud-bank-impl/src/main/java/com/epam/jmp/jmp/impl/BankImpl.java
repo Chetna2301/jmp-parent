@@ -1,11 +1,11 @@
-package com.epam.bank.impl;
+package com.epam.jmp.jmp.impl;
 
-import com.epam.dto.dto.BankCard;
-import com.epam.dto.dto.BankCardType;
-import com.epam.dto.dto.CreditBankCard;
-import com.epam.dto.dto.DebitBankCard;
-import com.epam.dto.dto.User;
-import com.epam.api.Bank;
+import com.epam.dto.BankCard;
+import com.epam.dto.BankCardType;
+import com.epam.dto.CreditBankCard;
+import com.epam.dto.DebitBankCard;
+import com.epam.dto.User;
+import com.epam.jmp.api.Bank;
 
 import java.util.UUID;
 
